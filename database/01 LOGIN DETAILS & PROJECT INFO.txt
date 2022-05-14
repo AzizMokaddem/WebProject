@@ -1,0 +1,12 @@
+database Name: ecommerceapp
+
+
+
+GO TO http://localhost/AzizWeb/admin/login.php TO log in as an admin
+Admin Login Details
+
+Email:    aziz@gmail.com
+Password: adminadmin123/o
+
+-----------
+register and log in as a client
